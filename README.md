@@ -16,15 +16,19 @@ Figure 1 and Figure 2 present the architecture and the workflow diagram of the p
 
 
 Figure1: architecture of the platform
+
 ![Figure 1](Images/Architecture of the platform for water quality monitoring.jpg)
 
 Figure 2: workflow diagram of the platform
+
 ![Figure 2](Images/Workflow diagram of the platform.jpg)
 
-Figure 3: deployment of the platform in the field
+Figure 3: deployment of the platform in the field=
+
 ![Figure 3](Images/Deployment of Platform in the Field.jpg)
 
 Figure 4: Unmanned Surface Vehicles and base station
+
 ![Figure 4](Images/Unmanned Surface Vehicles and base station.jpg)
 
 ## Acknowledgement
