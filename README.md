@@ -1,6 +1,6 @@
 # Automated-environmental-monitoring
 
-Research  Publication (co-author): "Automated Water Quality Survey and Evaluation Using an IoT Platform with Mobile Sensor Nodes"
+Research  Publication (co-author): "Automated Water Quality Survey and Evaluation Using an IoT Platform with Mobile Sensor Nodes," Sensors, 2017
 
 Link to Publication: http://www.mdpi.com/1424-8220/17/8/1735
 
