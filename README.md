@@ -14,13 +14,13 @@ The monitoring results are presented at the BS via a Local Assessment Unit (LAU)
 
 Figure 1 and Figure 2 present the architecture and the workflow diagram of the platform. Figure 3 demonstrates the deployment of the platform in the field. Figure 4 shows the Unmanned Surface Vehicles and the base station.
 
-![Figure 1](Automated-environmental-monitoring/Architecture of the platform for water quality monitoring.jpg)
+![Figure 1](/Images/Architecture of the platform for water quality monitoring.jpg)
 
-![Figure 2](Automated-environmental-monitoring/Workflow diagram of the platform.jpg)
+![Figure 2](/Images/Workflow diagram of the platform.jpg)
 
-![Figure 3](Automated-environmental-monitoring/Deployment of Platform in the Field.jpg)
+![Figure 3](/Images/Deployment of Platform in the Field.jpg)
 
-![Figure 4](Automated-environmental-monitoring/Unmanned Surface Vehicles and base station.jpg)
+![Figure 4](/Images/Unmanned Surface Vehicles and base station.jpg)
 
 ## Acknowledgement
 
