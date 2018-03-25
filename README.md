@@ -1,7 +1,8 @@
 # Automated-environmental-monitoring
 
-Research  publication (co-author): "Automated Water Quality Survey and Evaluation Using an IoT Platform with Mobile Sensor Nodes"
-Link: http://www.mdpi.com/1424-8220/17/8/1735
+Research  Publication (co-author): "Automated Water Quality Survey and Evaluation Using an IoT Platform with Mobile Sensor Nodes"
+
+Link to Publication: http://www.mdpi.com/1424-8220/17/8/1735
 
 ## Motivation of Project
 Traditional aquatic environmental monitoring involves static sensor nodes and manual monitoring. To detect anomalies in a timely manner, this monitoring system requires large deployment of static sensor nodes and therefore are inflexible and expensive. This research achieves automatic and dynamic monitoring via low-cost mobile robots with flexible and intelligent sampling.
@@ -15,19 +16,19 @@ The monitoring results are presented at the BS via a Local Assessment Unit (LAU)
 Figure 1 and Figure 2 present the architecture and the workflow diagram of the platform. Figure 3 demonstrates the deployment of the platform in the field. Figure 4 shows the Unmanned Surface Vehicles and the base station.
 
 
-Figure1: architecture of the platform
+**Figure1: architecture of the platform**
 
 ![Figure 1](Images/Architecture_of_the_platform_for_water_quality_monitoring.jpg)
 
-Figure 2: workflow diagram of the platform
+**Figure 2: workflow diagram of the platform**
 
 ![Figure 2](Images/Workflow_diagram_of_the_platform.jpg)
 
-Figure 3: deployment of the platform in the field
+**Figure 3: deployment of the platform in the field**
 
 ![Figure 3](Images/Deployment_of_Platform_in_the_Field.jpg)
 
-Figure 4: Unmanned Surface Vehicles and base station
+**Figure 4: Unmanned Surface Vehicles and base station**
 
 ![Figure 4](Images/Unmanned_Surface_Vehicles_and_base_station.jpg)
 
